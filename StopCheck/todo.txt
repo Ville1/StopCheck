@@ -1,3 +1,0 @@
-﻿options?
-select columns in stop-departures table
-saved for user?
