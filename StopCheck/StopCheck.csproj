@@ -199,7 +199,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
-    <Content Include="todo.txt" />
     <Content Include="UserControls\Map.ascx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Views\Account\Login.aspx" />
